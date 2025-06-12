@@ -217,19 +217,19 @@ npm run dev # ou npm start
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/brf.png" height="60"/>
+        <img src="./Projeto-BioGen-main/public/assets/brf.png" height="60"/>
         <br><strong>BRF S.A.</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/bunge.png" height="60"/>
+        <img src="./Projeto-BioGen-main/public/assets/bunge.png" height="60"/>
         <br><strong>Bunge</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/ambev.png" height="60"/>
+        <img src="./Projeto-BioGen-main/public/assets/ambev.png" height="60"/>
         <br><strong>Ambev</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/cargill.png" height="60"/>
+        <img src="./Projeto-BioGen-main/public/assets/cargill.png" height="60"/>
         <br><strong>Cargill</strong>
       </td>
     </tr>
@@ -286,7 +286,6 @@ GET /api/health                   # Status da API
 - [x] **Fase 1**: MVP com funcionalidades básicas
 - [x] **Fase 2**: Sistema de autenticação e autorização
 - [x] **Fase 3**: Dashboard interativo
-- [ ] **Fase 4**: App mobile (React Native)
 - [ ] **Fase 5**: Integração com IoT para monitoramento em tempo real
 - [ ] **Fase 6**: Machine Learning para otimização de processos
 - [ ] **Fase 7**: Expansão internacional
@@ -309,25 +308,6 @@ GET /api/health                   # Status da API
 
 ---
 
-## 📄 **Licença**
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-## 📞 **Contato**
-
-<div align="center">
-  
-**🌐 Site**: [www.biogen.com.br](https://www.biogen.com.br)
-
-**📧 Email**: contato@biogen.com.br
-
-**📱 Redes Sociais**: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/biogen)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biogen.oficial)
-
-</div>
 
 ---
 
