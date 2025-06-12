@@ -7,7 +7,7 @@
   [![Node.js](https://img.shields.io/badge/Node.js-18.0%2B-green)](https://nodejs.org/)
   [![Angular](https://img.shields.io/badge/Angular-18.0-red)](https://angular.io/)
   [![SQLite](https://img.shields.io/badge/SQLite-3.0-blue)](https://sqlite.org/)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  
 </div>
 
 ---
@@ -54,19 +54,19 @@ graph LR
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/ods-7.png" width="80"/>
+        <img src="./Projeto-BioGen-main/public/assets/ods 7.png" width="80"/>
         <br><strong>ODS 7</strong><br>Energia Limpa<br>e Acessível
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/ods-10.png" width="80"/>
+        <img src="./Projeto-BioGen-main/public/assets/ods 10.png" width="80"/>
         <br><strong>ODS 10</strong><br>Redução das<br>Desigualdades
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/ods-12.png" width="80"/>
+        <img src="./Projeto-BioGen-main/public/assets/ods 12.png" width="80"/>
         <br><strong>ODS 12</strong><br>Consumo e Produção<br>Responsáveis
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/ods-13.png" width="80"/>
+        <img src="./Projeto-BioGen-main/public/assets/ods 13.png" width="80"/>
         <br><strong>ODS 13</strong><br>Ação contra a<br>Mudança do Clima
       </td>
     </tr>
