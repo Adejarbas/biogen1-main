@@ -162,14 +162,11 @@ npm run dev # ou npm start
 
 ### **Para Beneficiários (Famílias)**
 - 🏠 Cadastro via NIS (Número de Identificação Social)
-- ⚡ Acompanhamento do consumo de energia
 - 🎯 Acesso a energia limpa e acessível
 
 ### **Para Administradores**
 - 👥 Gestão completa de usuários
 - 📊 Dashboard administrativo
-- 🏭 Controle de plantas de energia
-- 📈 Análise de impacto social e ambiental
 
 ---
 
@@ -179,25 +176,31 @@ npm run dev # ou npm start
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/alessandro.png" width="100" style="border-radius: 50%"/>
+        <img src="./Projeto-BioGen-main/public/assets/int alessandro.png" width="100" style="border-radius: 50%"/>
         <br><strong>Alessandro Rodrigues</strong>
         <br><em>CEO & Founder</em>
         <br>Visão estratégica e liderança
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/daniel.png" width="100" style="border-radius: 50%"/>
+        <img src="./Projeto-BioGen-main/public/assets/int daniel.png" width="100" style="border-radius: 50%"/>
         <br><strong>Daniel Adeljarbas</strong>
         <br><em>Diretor de Tecnologia</em>
         <br>Arquitetura e desenvolvimento
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/taise.png" width="100" style="border-radius: 50%"/>
+        <img src="./Projeto-BioGen-main/public/assets/Rafael.png" width="100" style="border-radius: 50%"/>
+        <br><strong>Raphael Cremer</strong>
+        <br><em>DBA</em>
+        <br>Manutenção, Otimização e Segurança
+      </td>
+      <td align="center">
+        <img src="./Projeto-BioGen-main/public/assets/int taise.png" width="100" style="border-radius: 50%"/>
         <br><strong>Taise Rodrigues</strong>
         <br><em>Diretora de Marketing</em>
         <br>Estratégia e comunicação
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/thiago.jpeg" width="100" style="border-radius: 50%"/>
+        <img src="./Projeto-BioGen-main/public/assets/int thiago.jpeg" width="100" style="border-radius: 50%"/>
         <br><strong>Thiago Muniz</strong>
         <br><em>Diretor Financeiro</em>
         <br>Gestão financeira e planejamento
