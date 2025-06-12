@@ -268,12 +268,16 @@ GET /api/health                   # Status da API
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/home-screenshot.png" width="300"/>
+        <img src="./Projeto-BioGen-main/public/assets/tela_principal.jpeg" width="300"/>
         <br><strong>Página Inicial</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/dashboard-screenshot.png" width="300"/>
-        <br><strong>Dashboard</strong>
+        <img src="./Projeto-BioGen-main/public/assets/dashboard_fornecedor.jpeg" width="300"/>
+        <br><strong>Dashboard Fornecedor</strong>
+      </td>
+      <td align="center">
+        <img src="./Projeto-BioGen-main/public/assets/dashboard_adm.jpeg" width="300"/>
+        <br><strong>Dashboard Administrador</strong>
       </td>
     </tr>
   </table>
@@ -308,8 +312,6 @@ GET /api/health                   # Status da API
 
 ---
 
-
----
 
 <div align="center">
 
