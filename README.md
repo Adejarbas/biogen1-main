@@ -245,6 +245,15 @@ npm run dev # ou npm start
 POST /api/auth/login              # Login de usuários
 POST /api/auth/register/fornecedor # Cadastro de fornecedores
 POST /api/auth/register/beneficiario # Cadastro de beneficiários
+PUT  /api/auth/reset-password/:id   # Redefinir senha de usuário
+```
+
+### **Lançamentos**
+```http
+GET    /api/users                 # Listar todos os usuários
+GET    /api/users/:id             # Buscar usuário por ID
+PUT    /api/users/:id             # Atualizar usuário
+DELETE /api/users/:id             # Excluir usuário
 ```
 
 ### **Lançamentos**
@@ -257,7 +266,8 @@ DELETE /api/lancamentos/:id       # Excluir lançamento
 
 ### **Health Check**
 ```http
-GET /api/health                   # Status da API
+GET /api/health                    # Status da API
+GET /api-docs                      # Documentação Swagger
 ```
 
 ---
@@ -268,15 +278,15 @@ GET /api/health                   # Status da API
   <table>
     <tr>
       <td align="center">
-        <img src="./Projeto-BioGen-main/public/assets/tela_principal.jpeg" width="300"/>
+        <img src="./Projeto-BioGen-main/public/assets/tela_principal.jpeg" width="250" height="180" style="object-fit: cover;"/>
         <br><strong>Página Inicial</strong>
       </td>
       <td align="center">
-        <img src="./Projeto-BioGen-main/public/assets/dashboard_fornecedor.jpeg" width="300"/>
+        <img src="./Projeto-BioGen-main/public/assets/dashboard_fornecedor.jpeg" width="250" height="180" style="object-fit: cover;"/>
         <br><strong>Dashboard Fornecedor</strong>
       </td>
       <td align="center">
-        <img src="./Projeto-BioGen-main/public/assets/dashboard_adm.jpeg" width="300"/>
+        <img src="./Projeto-BioGen-main/public/assets/dashboard_adm.jpeg" width="250" height="180" style="object-fit: cover;"/>
         <br><strong>Dashboard Administrador</strong>
       </td>
     </tr>
